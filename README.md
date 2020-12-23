@@ -4,12 +4,12 @@
 Find my portfolio here: [hummel.link](https://hummel.link)
 
 ## My current projects
-![Ui Bibz](https://repository-images.githubusercontent.com/29547689/e29b2180-0d59-11eb-89f3-4541571d7c67)
+[![Ui Bibz](https://repository-images.githubusercontent.com/29547689/e29b2180-0d59-11eb-89f3-4541571d7c67)](https://hummel.link/ui-bibz/)
 
 ## My Skills
 ### Public trophies
 
-[[![trophy](https://github-profile-trophy.vercel.app/?username=thooams)](https://github.com/thooams/github-profile-trophy)](https://hummel.link/ui-bibz/)
+![trophy](https://github-profile-trophy.vercel.app/?username=thooams)
 
 ## Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thooams&show_icons=true&count_private=true)
